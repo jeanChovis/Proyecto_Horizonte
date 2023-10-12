@@ -2,7 +2,7 @@
                                                               PROYECTO FIN DE CURSO "HORIZONTE"
 
 INTEGRANTES:
-- Astucuri Curas Kenedy Yorly
+- Astucuri Curas Kennedy Yorly
 - Condori Ramón Luis Angel.
 - Lizaraso Taipe David
 - Pomayay Hinojosa Jean Piere
