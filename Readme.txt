@@ -6,8 +6,7 @@ INTEGRANTES:
 - Condori Ramón Luis Angel
 - Lizaraso Taipe David
 - Pomayay Hinojosa Jean Piere
-- Yaringaño Romero Sebastian
-
+- Yaringaño Romero Sebastian.
 
 OBJETIVOS:
 
