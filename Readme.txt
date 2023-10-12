@@ -3,7 +3,7 @@
 
 INTEGRANTES:
 - Astucuri Curas Kennedy Yorly
-- Condori Ramón Luis Angel
+- Condori Ramón Luis Angel.
 - Lizaraso Taipe David
 - Pomayay Hinojosa Jean Piere
 - Yaringaño Romero Sebastian.
